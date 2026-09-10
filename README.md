@@ -7,7 +7,7 @@ This project analyzes the Telco Customer Churn dataset, which contains customer 
 
 
 ## Project Motivation ##
-Customer churn is a major challenge for telecommunications companies, as losing customers can directly affect revenue and long-term growth. With many service providers available, customers can easily switch when their needs or expectations are not met, making retention an important factor in maintaining a stable customer base. Analyzing churn can reveal factors associated with customers leaving, such as their services, contracts, and account characteristics, while providing useful insights that can support better business decisions, improve customer satisfaction, and strengthen customer retention strategies.
+Customer churn is a major challenge for companies, especially in the telecommunications industry, as losing customers can directly affect revenue and long-term growth. With many service providers available, customers can easily switch when their needs or expectations are not met, making retention an important factor in maintaining a stable customer base. Analyzing churn can reveal factors associated with customers leaving, such as their services, contracts, and account characteristics, while providing useful insights that can support better business decisions, improve customer satisfaction, and strengthen customer retention strategies.
 
 
 ## Team Members ##
